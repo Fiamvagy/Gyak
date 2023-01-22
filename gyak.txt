@@ -1,2 +1,4 @@
 alma
 banan
+csoki
+keksz
